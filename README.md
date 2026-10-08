@@ -1,4 +1,5 @@
-# **My awesome Project yo**
+# My super project
+
 ## Проекты подача в
 
 План
